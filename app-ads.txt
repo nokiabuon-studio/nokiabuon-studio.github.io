@@ -5,6 +5,7 @@ pixelverge.com, 161060, DIRECT
 google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
 lijit.com, 560797, RESELLER, fafdf38b16bf6b2b
 uis.mobfox.com, 2444, RESELLER, 5529a3d1f59865be
+facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68 
 eskimi.com, 22950519347, RESELLER
 rubiconproject.com, 27854, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27903, RESELLER, 0bfd66d529a55807
