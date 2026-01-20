@@ -3,6 +3,7 @@ pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 thejungletechnology.com, 161060, DIRECT
 pixelverge.com, 161060, DIRECT
 google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
+facebook.com, 3924209857887394, DIRECT, c3e20eee3f780d68
 lijit.com, 560797, RESELLER, fafdf38b16bf6b2b
 uis.mobfox.com, 2444, RESELLER, 5529a3d1f59865be
 facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68 
